@@ -6,6 +6,10 @@ This is an edit made via GitHub's UI.
 
 This is yet another edit made via GitHub's UI.
 
+## [`website-html`](https://github.com/nicholaschiang/website-html)
+
+A bare bones portfolio page built using HTML + CSS.
+
 ## [`salmon`](https://github.com/nicholaschiang/salmon)
 
 This project is a parody of the original game Simon by Milton-Bradley.
