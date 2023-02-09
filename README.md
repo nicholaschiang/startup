@@ -6,7 +6,7 @@ This is an edit made via GitHub's UI.
 
 This is yet another edit made via GitHub's UI.
 
-## `salmon`
+## [`salmon`](https://github.com/nicholaschiang/salmon)
 
 This project is a parody of the original game Simon by Milton-Bradley.
 It is a very basic repetitive memory game where one follows the demonstrated color sequence until one makes a mistake.
